@@ -1,5 +1,5 @@
 # GeneratorHEX
-GeneratorHEX is a program for subsequent code generation in hexadecimal format  
+
 GeneratorHEX - программа для последовательной генерации чисел в hex формате.  
 Её можно использовать для получения последовательных энтропий мнемонических  
 сид фраз.  
