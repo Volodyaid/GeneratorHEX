@@ -59,4 +59,13 @@ It is started by the command:
 ./GeneratorHEX 262348096919201814893479671364124123574 add 100000  
 
 In this example, 100,000 additions will be performed  
+/////////////////////////////////////////
+giv_hex_V1   
+Добавил также версию данного генератора на языке Python,   
+в коде меняете значения на нужные вам.   
+.......................................................   
+giv_hex_V1   
+I also added a Python version of this generator,   
+in the code, you change the values to the ones you need.   
+
 
