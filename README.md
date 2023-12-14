@@ -46,7 +46,7 @@ GeneratorHEX_V2 - в этой версии вы сами решаете, как�
 необходимо выполнить.  
 
 Запускается командой:  
-./GeneratorHEX 262348096919201814893479671364124123574 add 100000  
+./GeneratorHEX_V2 262348096919201814893479671364124123574 add 100000  
 
 В этом примере будет выполнено 100000 сложений.  
 
@@ -56,7 +56,7 @@ GeneratorHEX_V2 - in this version, you decide for yourself how many iterations
 you need to perform.  
 
 It is started by the command:  
-./GeneratorHEX 262348096919201814893479671364124123574 add 100000  
+./GeneratorHEX_V2 262348096919201814893479671364124123574 add 100000  
 
 In this example, 100,000 additions will be performed  
 /////////////////////////////////////////
