@@ -39,7 +39,7 @@ GeneratorHEX_V2 - в этой версии вы сами решаете, как�
 GeneratorHEX_V3 - в этой версии выводится результат вычислений на экран   
 без записи в файл и вывода значений счетчиков.   
 Пример команды для запуска:   
-./GeneratorHEX 262348096919201814893479671364124123574 add 100000   
+./GeneratorHEX_V3 262348096919201814893479671364124123574 add 100000   
 
 .........................................  
 
@@ -52,7 +52,7 @@ In this example, 100,000 additions will be performed
 GeneratorHEX_V3 - in this version, the result of calculations is displayed on the screen   
 without writing to a file and displaying counter values.   
 Example of a command to run:   
-./GeneratorHEX 262348096919201814893479671364124123574 add 100000   
+./GeneratorHEX_V3 262348096919201814893479671364124123574 add 100000   
 
 /////////////////////////////////////////  
 
